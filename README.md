@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SigitNurhanafi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in tecnology
+- 🌱 I’m currently learning social a life
+- 💞️ I’m looking to collaborate on tecnology
   
 
 <!---
